@@ -4,7 +4,7 @@
 
 ## a. Identidade Visual do projeto
 <p align="center">
-  <img src="band.png" alt="Logo FastAID" width="300"/>
+  <img src="ensinando a salvar vidas.jpg" alt="Logo FastAID" width="300"/>
 </p>
 <p align="center">
   <i>FastAID: O ecossistema gamificado de ensino de primeiros socorros.</i>
