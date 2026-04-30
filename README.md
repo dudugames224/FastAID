@@ -12,9 +12,12 @@ O projeto nasceu da necessidade de democratizar o acesso ao conhecimento sobre p
 ## 👥 Equipe
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Instituto Federal do Paraná (IFPR) - Campus Pinhais.
 
-- **Eduardo Cornehl Jungles Gonçalves** (Dev & UX/UI)
-- **Otavio Henrique Batista Moreira** (Arquitetura & Regras de Negócio)
-
+- **Eduardo Cornehl Jungles Gonçalves** 
+- **Otavio Henrique Batista Moreira**
+- **Izaque Esteves da Silva.** (Orientador)
+- **Ana Carolina** (Coorientador)
+ **Claudio Kleina** (Coorientador)
+  
 ---
 
 ## 🎨 Identidade Visual
