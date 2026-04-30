@@ -1,33 +1,37 @@
-# FastAID
+# FastAID 🚑
 
-# 1. Identificação
+> "O instinto de salvar vidas, agora no bolso de cada estudante."
 
-## a. Identidade Visual do projeto
-<p align="center">
-  <img src="ensinando a salvar vidas.jpg" alt="Logo FastAID" width="700"/>
-</p>
-<p align="center">
-  <i>FastAID: O ecossistema gamificado de ensino de primeiros socorros.</i>
-</p>
+O **FastAID** é um sistema gamificado voltado para o ensino de primeiros socorros. Nosso objetivo é transformar o aprendizado de procedimentos de emergência — frequentemente percebidos como complexos ou intimidantes — em uma experiência autônoma, interativa e engajadora através de microlearning e mecânicas de jogos.
 
-## b. Redes sociais do projeto
-* 🌐 **Site/Landing Page:** [EM BREVE]
-* 💼 **LinkedIn:** [EM BREVE]
-* 📸 **Instagram:** [EM BREVE]
+---
 
-## c. Organização da Equipe
+## 📝 Resumo
+O projeto nasceu da necessidade de democratizar o acesso ao conhecimento sobre primeiros socorros. Através do uso de Tecnologias de Informação e Comunicação (TICs), desenvolvemos uma plataforma que capacita o usuário a agir corretamente em situações de risco, garantindo que o conhecimento esteja disponível mesmo offline, quando cada segundo é crucial.
 
-* **Eduardo Cornehl Jungles Gonçalves** — *Co-fundador & Developer*
-  * **Responsabilidades:** Liderar e contruir o projeto.
-  
-* **Otavio Henrique Batista Moreira** — *Co-fundador & Developer*
-  * **Responsabilidades:** Liderar e contruir o projeto.
-    
-* **Prof. Izaque Esteves da Silva** — *Orientador & Conselheiro Estratégico*
-  * **Responsabilidades:** .
+## 👥 Equipe
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Instituto Federal do Paraná (IFPR) - Campus Pinhais.
 
-* **Prof. Claudio Kleina** — *C0-rientador & Conselheiro Estratégico*
-  * **Responsabilidades:** .
+- **Eduardo Cornehl Jungles Gonçalves** (Dev & UX/UI)
+- **Otavio Henrique Batista Moreira** (Arquitetura & Regras de Negócio)
 
-## d. Data de criação do projeto
-* **Idealização e início do desenvolvimento:** Outubro de 2025.
+---
+
+## 🎨 Identidade Visual
+A identidade visual do FastAID foi projetada para transmitir confiança, rapidez e clareza, utilizando uma paleta de cores intuitiva e suporte nativo a temas Claro/Escuro.
+
+- [🔗 Acessar Identidade Visual](IDENTIDADE VISUAL.pdf)
+
+---
+
+## 📂 Documentação de Requisitos
+Acesse os documentos oficiais do projeto:
+
+- [📄 Documento de Requisitos](FASTAID - Documento de requisitos .pdf)
+
+---
+
+## 📱 Protótipo de Telas
+Visualize o protótipo interativo desenvolvido:
+
+- [🔗 Acessar Protótipo (Quant-UX)]([COLE_SEU_LINK_AQUI](https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en))
