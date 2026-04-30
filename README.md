@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Inst
 ## 🎨 Identidade Visual
 A identidade visual do FastAID foi projetada para transmitir confiança, rapidez e clareza, utilizando uma paleta de cores intuitiva e suporte nativo a temas Claro/Escuro.
 
-- [🔗 Acessar Identidade Visual](IDENTIDADE VISUAL.pdf)
+- <a href="IDENTIDADE VISUAL.pdf">IDENTIDADE VISUAL</a> para criar um link que direciona para a URL desejada. Por exemplo, <a href="https://www.example.com">Texto do link</a>.
 
 ---
 
