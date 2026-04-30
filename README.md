@@ -1,4 +1,4 @@
-<div align="center"><img src="LOGO.png" alt="Texto Alternativo" width="500" styles></div>div>
+<div align="center"><img src="LOGO.png" alt="Texto Alternativo" width="500" styles></div>
 
 > "O instinto de salvar vidas, agora no bolso de cada estudante."
 
