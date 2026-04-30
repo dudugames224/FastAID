@@ -20,18 +20,17 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Inst
 ## 🎨 Identidade Visual
 A identidade visual do FastAID foi projetada para transmitir confiança, rapidez e clareza, utilizando uma paleta de cores intuitiva e suporte nativo a temas Claro/Escuro.
 
-- <a href="IDENTIDADE VISUAL.pdf">IDENTIDADE VISUAL</a> para criar um link que direciona para a URL desejada. Por exemplo, <a href="https://www.example.com">Texto do link</a>.
-
+- <a href="IDENTIDADE VISUAL.pdf">IDENTIDADE VISUAL</a>
 ---
 
 ## 📂 Documentação de Requisitos
 Acesse os documentos oficiais do projeto:
 
-- [📄 Documento de Requisitos](FASTAID - Documento de requisitos .pdf)
+- <a href="FASTAID - Documento de requisitos .pdf">IDENTIDADE VISUAL</a>
 
 ---
 
 ## 📱 Protótipo de Telas
 Visualize o protótipo interativo desenvolvido:
 
-- [🔗 Acessar Protótipo (Quant-UX)]([COLE_SEU_LINK_AQUI](https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en))
+- <a href="https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en">IDENTIDADE VISUAL</a>
