@@ -26,11 +26,11 @@ A identidade visual do FastAID foi projetada para transmitir confiança, rapidez
 ## 📂 Documentação de Requisitos
 Acesse os documentos oficiais do projeto:
 
-- <a href="FASTAID - Documento de requisitos .pdf">IDENTIDADE VISUAL</a>
+- <a href="FASTAID - Documento de requisitos .pdf">DOCUMENTO DE REQUISITOS</a>
 
 ---
 
 ## 📱 Protótipo de Telas
 Visualize o protótipo interativo desenvolvido:
 
-- <a href="https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en">IDENTIDADE VISUAL</a>
+- <a href="https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en">PROTÓTIPO DE TELAS</a>
