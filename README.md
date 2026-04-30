@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Inst
 - **Otavio Henrique Batista Moreira**
 - **Izaque Esteves da Silva.** (Orientador)
 - **Ana Carolina** (Coorientador)
- **Claudio Kleina** (Coorientador)
+- **Claudio Kleina** (Coorientador)
   
 ---
 
