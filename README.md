@@ -1,4 +1,4 @@
-# FastAID 🚑
+<img src="band.png" alt="Texto Alternativo" width="300">
 
 > "O instinto de salvar vidas, agora no bolso de cada estudante."
 
