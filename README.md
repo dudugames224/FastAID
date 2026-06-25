@@ -29,7 +29,7 @@ A identidade visual do FastAID foi projetada para transmitir confiança, rapidez
 ## 📂 Documentação de Requisitos
 Acesse os documentos oficiais do projeto:
 
-- <a href="[FASTAID - Documento de requisitos .pdf](https://docs.google.com/document/d/1nSJk9xR6WyFck1RpfgltVux6g6GoOaTC0R9CgH0CTpc/edit?usp=sharing)">DOCUMENTO DE REQUISITOS</a>
+- <a href="https://docs.google.com/document/d/1nSJk9xR6WyFck1RpfgltVux6g6GoOaTC0R9CgH0CTpc/edit?usp=sharing">DOCUMENTO DE REQUISITOS</a>
 
 ---
 
