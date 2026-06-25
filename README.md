@@ -43,5 +43,5 @@ Visualize o protótipo interativo desenvolvido:
 ## DIAGRAMAS DE CASO DE USO
 Visualize os diagramas desenvolvidos:
 
-- <a href="https://docs.google.com/document/d/1pcCjMckxj-t0U7pb-YpIVSUZhZLy_5_X8BUk1Viub5I/edit?usp=sharing">PROTÓTIPO DE TELAS</a>
+- <a href="https://docs.google.com/document/d/1pcCjMckxj-t0U7pb-YpIVSUZhZLy_5_X8BUk1Viub5I/edit?usp=sharing">DIAGRAMAS DE CASO DE USO</a>
 
