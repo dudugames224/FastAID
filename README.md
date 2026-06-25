@@ -37,3 +37,11 @@ Acesse os documentos oficiais do projeto:
 Visualize o protótipo interativo desenvolvido:
 
 - <a href="https://app.quant-ux.com/#/test.html?h=a2aa10aywXFRXjubi3vfSV3j5JOlefgQxRUhZSdz8QjsnYEd4SNRF2vkjiHC&ln=en">PROTÓTIPO DE TELAS</a>
+
+---
+
+## DIAGRAMAS DE CASO DE USO
+Visualize os diagramas desenvolvidos:
+
+- <a href="https://docs.google.com/document/d/1pcCjMckxj-t0U7pb-YpIVSUZhZLy_5_X8BUk1Viub5I/edit?usp=sharing">PROTÓTIPO DE TELAS</a>
+
