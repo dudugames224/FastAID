@@ -45,3 +45,10 @@ Visualize os diagramas desenvolvidos:
 
 - <a href="https://docs.google.com/document/d/1pcCjMckxj-t0U7pb-YpIVSUZhZLy_5_X8BUk1Viub5I/edit?usp=sharing">DIAGRAMAS DE CASO DE USO</a>
 
+---
+
+## DIAGRAMAÇÃO UML
+Visualize os diagramas desenvolvidos:
+
+- <a href="https://docs.google.com/document/d/1fO_vKkl4MRBC_7wgDnNYhXJ38q-8mBr-SdQTZPDVC_k/edit?usp=sharing">DIAGRAMAS DE UML</a>
+
